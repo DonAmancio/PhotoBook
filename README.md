@@ -1,2 +1,2 @@
-# PhotoBook
+# Infogram
 Proyecto para programacion movil
